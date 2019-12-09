@@ -1,4 +1,4 @@
-// standard input output
+// Standard Input Output
 // Algo como "using System;"
 #include <stdio.h>
 
